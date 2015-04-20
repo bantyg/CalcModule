@@ -1,0 +1,38 @@
+{
+  "name": "Calculator",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "mocha"
+  },
+  "description": "small library which will do simple arithmetic functions",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bantyg/CalculatorModule.git"
+  },
+  "keywords": [
+    "[\"add\"",
+    "\"subtract\"",
+    "\"divide\"",
+    "\"multiply\"]"
+  ],
+  "author": "Pooja Gurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bantyg/CalculatorModule/issues"
+  },
+  "homepage": "https://github.com/bantyg/CalculatorModule",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+}
