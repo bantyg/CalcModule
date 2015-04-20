@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bantyg/CalculatorModule.git"
+    "url": "https://github.com/bantyg/CalcModule.git"
   },
   "keywords": [
     "[\"add\"",
@@ -26,9 +26,9 @@
   "author": "Pooja Gurav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bantyg/CalculatorModule/issues"
+    "url": "https://github.com/bantyg/CalcModule/issues"
   },
-  "homepage": "https://github.com/bantyg/CalculatorModule",
+  "homepage": "https://github.com/bantyg/CalcModule",
   "licenses": [
     {
       "type": "MIT",
