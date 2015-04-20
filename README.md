@@ -3,7 +3,7 @@ Calculartor
   A simple module which will do arithmetic operations..
 
 Installation
-  npm install Calculator
+  npm install pg-calc
 
 Usage
   add:function(a,b){

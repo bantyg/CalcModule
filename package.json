@@ -1,5 +1,5 @@
-{
-  "name": "calc",
+  {
+  "name": "pg-calc",
   "version": "0.0.1",
   "scripts": {
     "test": "mocha"
